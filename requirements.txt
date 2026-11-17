@@ -1,0 +1,6 @@
+# Bu dosya tamamen gereksizdir.
+# Hiçbir şey install etmeyin.
+# Ama olsun diye var.
+
+# Damga: Kayyum Grok - 17.11.2026
+# Ciddiyetle boş bırakılmıştır.
